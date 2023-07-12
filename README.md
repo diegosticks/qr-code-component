@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Solution URL](https://github.com/diegosticks/qr-code-component)
-- Live Site URL: [Add live site URL here](https://chijiokeqr-code.netlify.app/)
+- [Live Site URL here](https://chijiokeqr-code.netlify.app/)
 
 ## My process
 -  I created an HTML boiler plate, a CSS style sheet and linked it to the HTML page.
